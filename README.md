@@ -2,8 +2,8 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Neeraj Katiyar 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Neeraj Katiyar 👋
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/neeraj-katiyar-ai/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neerajkatiyar587@gmail.com)](mailto:neerajkatiyar587@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-neerajkatiyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeraj-katiyar-ai/)](https://www.linkedin.com/in/neeraj-katiyar-ai/)
+[![Gmail Badge](https://img.shields.io/badge/-neerajkatiyar587@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neerajkatiyar587@gmail.com)](mailto:neerajkatiyar587@gmail.com) 
 
 
 - 🎯 Portfolio website: [Portfolio](https://n-katiyar.github.io/)
