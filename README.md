@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
-### नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋
+<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Neeraj Katiyar 👋</h3> -->
+### नमस्ते (Namaste)🙏🏻, I am Neeraj Katiyar 👋
 [![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
 [![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
 
