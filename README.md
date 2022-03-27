@@ -27,8 +27,9 @@
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-
+- Machine & Deep Learning ✍️
+- Natural Language Processing ✍️
+- Software Development ✍️
 
 ### :zap: Github Stats
 <p>
