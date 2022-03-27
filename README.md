@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://n-katiyar.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
@@ -43,4 +43,4 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/varadbhogayata
+[linkedin]: https://www.linkedin.com/in/neeraj-katiyar-ai/
