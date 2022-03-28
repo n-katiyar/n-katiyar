@@ -39,3 +39,5 @@
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/neeraj-katiyar-ai/
+
+  [![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-katiyar)](https://github.com/n-katiyar/github-readme-stats)
